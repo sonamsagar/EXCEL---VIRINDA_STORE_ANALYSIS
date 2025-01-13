@@ -1,1 +1,2 @@
 # EXCEL---VIRINDA_STORE_ANALYSIS
+Conducted comprehensive data cleaning, including eliminating duplicates and correcting data inconsistencies, to ensure accurate reporting.Utilized advanced Excel features like Pivot Tables, Pivot Charts, and Slicers to analyze sales trends and performance metrics, Developed an interactive dashboard that streamlined data visualization, enabling quick insights into key store performance indicators.
